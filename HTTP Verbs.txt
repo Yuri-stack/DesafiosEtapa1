@@ -1,0 +1,8 @@
+/*  HTTP Verbs
+
+    GET: Receber RESOURCE(objeto que representa algo do mundo real)
+    POST: Criar um novo RESOURCE com dados enviados
+    PUT: Atualizar RESOURCE
+    DELETE: Apagar RESOURCE
+
+*/
